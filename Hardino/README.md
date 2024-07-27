@@ -6,4 +6,6 @@ Dino and obstacles are represented through yellow and red leds respectively.
 <div>sorry for the low quality 😞</div>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JzJAzkH0RjM" frameborder="0" allowfullscreen>hello</iframe>
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JzJAzkH0RjM" frameborder="0" allowfullscreen></iframe>
+</div>
